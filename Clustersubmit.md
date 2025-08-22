@@ -1,5 +1,7 @@
 [Back to HadCM3_technical_notes](HadCM3_technical_notes.md)
 
+[Documentation_for_clustersubmit](Documentation_for_clustersubmit.md)
+
 Clustersubmit edits the submit scripts on the fly for a specific machine.
 
 Streamlined as possible.
